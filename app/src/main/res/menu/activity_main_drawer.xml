@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+    </group>
+
+    <item android:title="@string/label_subject">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/montoan"
+                    android:icon="@drawable/ic_match"
+                    android:title="@string/label_toan" />
+                <item
+                    android:id="@+id/monly"
+                    android:icon="@drawable/ic_phy"
+                    android:title="@string/label_VL" />
+                <item
+                    android:id="@+id/monhoa"
+                    android:icon="@drawable/ic_hoahoc"
+                    android:title="@string/label_hoahoc" />
+                <item
+                    android:id="@+id/monav"
+                    android:icon="@drawable/ic_english"
+                    android:title="@string/label_tienganh" />
+                <item
+                    android:id="@+id/search"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/label_search" />
+                <item
+                    android:id="@+id/score"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/label_score" />
+            </group>
+
+        </menu>
+    </item>
+
+</menu>

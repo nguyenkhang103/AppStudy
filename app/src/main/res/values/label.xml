@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_toan">Toán</string>
+    <string name="label_VL">Vật lý</string>
+    <string name="label_tienganh">Tiếng anh</string>
+    <string name="label_hoahoc">Hoá học</string>
+    <string name="label_monhoc">Môn học</string>
+    <string name="label_tittleToan">Đề thi môn toán</string>
+    <string name="label_hometittle">Đây là app trắc nghiêm
+        các môn học</string>
+    <string name="label_search">Tìm kiếm câu hỏi</string>
+    <string name="label_score">Danh sách điểm</string>
+    <string name="label_subject">Đề thi trắc nghiệm</string>
+    <string name="label_exam">Đề số 1</string>
+</resources>
